@@ -24,6 +24,7 @@ namespace HastaTakip
 
 
 
+
 			Hasta hasta = new Hasta
 			{
 				Adi = txtAdi.Text,
