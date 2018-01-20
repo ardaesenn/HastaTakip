@@ -35,6 +35,8 @@ namespace HastaTakip
 
 
 
+
+
 			hasta.YasHesapla();
 			hasta.IndirimliUcretHesapla();
 
