@@ -1,0 +1,9 @@
+c:\users\arda.esen\documents\visual studio 2017\Projects\HastaTakip\HastaTakip\bin\Debug\HastaTakip.exe.config
+c:\users\arda.esen\documents\visual studio 2017\Projects\HastaTakip\HastaTakip\bin\Debug\HastaTakip.exe
+c:\users\arda.esen\documents\visual studio 2017\Projects\HastaTakip\HastaTakip\bin\Debug\HastaTakip.pdb
+c:\users\arda.esen\documents\visual studio 2017\Projects\HastaTakip\HastaTakip\obj\Debug\HastaTakip.csprojResolveAssemblyReference.cache
+c:\users\arda.esen\documents\visual studio 2017\Projects\HastaTakip\HastaTakip\obj\Debug\HastaTakip.Form1.resources
+c:\users\arda.esen\documents\visual studio 2017\Projects\HastaTakip\HastaTakip\obj\Debug\HastaTakip.Properties.Resources.resources
+c:\users\arda.esen\documents\visual studio 2017\Projects\HastaTakip\HastaTakip\obj\Debug\HastaTakip.csproj.GenerateResource.Cache
+c:\users\arda.esen\documents\visual studio 2017\Projects\HastaTakip\HastaTakip\obj\Debug\HastaTakip.exe
+c:\users\arda.esen\documents\visual studio 2017\Projects\HastaTakip\HastaTakip\obj\Debug\HastaTakip.pdb
